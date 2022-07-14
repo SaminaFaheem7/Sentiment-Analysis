@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/fahee/OneDrive/Documents/GitHub/Sentiment-Analysis/DSString.h
+iostream
+-
+cstring
+-
+vector
+-
+
+/mnt/c/Users/fahee/OneDrive/Documents/GitHub/Sentiment-Analysis/Sentiment_file.cpp
+Sentiment_file.h
+/mnt/c/Users/fahee/OneDrive/Documents/GitHub/Sentiment-Analysis/Sentiment_file.h
+iomanip
+-
+
+/mnt/c/Users/fahee/OneDrive/Documents/GitHub/Sentiment-Analysis/Sentiment_file.h
+DSString.h
+/mnt/c/Users/fahee/OneDrive/Documents/GitHub/Sentiment-Analysis/DSString.h
+map
+-
+fstream
+-
+vector
+-
+
